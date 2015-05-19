@@ -60,7 +60,7 @@ cacheSolve <- function(x, ...) {
   matrix_inverse
 }
 
-#try with
+# Some test code for the above function. Try them in order one by one:
 # mx1 <- matrix(c(6,3,2,3,4,4,5,6,5),3,3)
 # mx2 <- makeCacheMatrix(mx1)
 # mx2$get()
